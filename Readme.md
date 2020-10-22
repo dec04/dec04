@@ -55,8 +55,8 @@ and modern.
 
 Rate system: :star: - :star::star::star::star::star:
 
-I will evaluate myself as I see it. Since it is extremely difficult to evaluate yourself, because I can be biased. 
-You are free to draw your own conclusions. Here's a small list:
+I will evaluate myself as I see it. Since it is extremely difficult to evaluate myself, because I can be biased. 
+You are free to draw your own conclusions. Here's a small list of my skills:
 
 #### Hard skills:
 
