@@ -65,7 +65,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
   - css, sass;                                      :star::star::star:
   - reactjs;                                        :star::star::star:
   - bootstrap 4;                                    :star::star::star:
-  - tailwindcss;                                    :star:
+  - tailwindcss;                                    :star: (just started)
   - webpack;                                        :star::star::star:
   - java;                                           :star::star:
 
