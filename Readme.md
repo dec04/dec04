@@ -100,6 +100,62 @@ You are free to draw your own conclusions. Here's a small list of my skills:
  - [Real Project #4](https://goo.su/2lvF)
  - [:briefcase:](https://novosibirsk.hh.ru/resume/864e66d4ff061301450039ed1f734c4b637855)
 
+### Example images
+
+<details>
+  <summary>Website example images</summary>
+  
+<p align="center">
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/website/webMockup3Blurred.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/website/webMockup3Blurred.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/website/webMockup4Blurred.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/website/webMockup4Blurred.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/website/webMockup5Blurred.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/website/webMockup5Blurred.jpg" 
+        height="500" />
+    </kbd>
+</p>
+</details>
+
+<details>
+  <summary>App example images</summary>
+  
+<p align="center">
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-123753_%20%20.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-123753_%20%20.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-123827_%20%20.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-123827_%20%20.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-123837_%20%20.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-123837_%20%20.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-124028_%20%20.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-124028_%20%20.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-124037_%20%20.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/app/Screenshot_20201019-124037_%20%20.jpg" 
+        height="500" />
+    </kbd>
+</p>
+</details>
+
 ## Social
 
 <p align="center">
