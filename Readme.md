@@ -41,47 +41,25 @@ class Dec04 {
 ## Links
 
 <p align="center">
-    <a href="https://www.facebook.com/dmediadecoy">
-        <kbd>
-            <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/facebook.svg" 
-            data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/facebook.svg" 
-            height="100" />
-        </kbd>
+    <a style="padding: 0 20px" target="_blank" rel="noopener" href="https://www.instagram.com/dmedia.decoy/">
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/instagram.svg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/instagram.svg" 
+        height="100" />
     </a>
-    <a href="https://www.instagram.com/dmedia.decoy/">
-        <kbd>
-            <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/instagram.svg" 
-            data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/instagram.svg" 
-            height="100" />
-        </kbd>
+    <a style="padding: 0 20px" target="_blank" rel="noopener" href="https://join.skype.com/invite/cXSkTTwHZFP6">
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/skype.svg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/skype.svg" 
+        height="100" />
     </a>
-    <a href="https://join.skype.com/invite/cXSkTTwHZFP6">
-        <kbd>
-            <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/skype.svg" 
-            data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/skype.svg" 
-            height="100" />
-        </kbd>
+    <a style="padding: 0 20px" target="_blank" rel="noopener" href="https://t.me/Dec_04">
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/telegram.svg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/telegram.svg" 
+        height="100" />
     </a>
-    <a href="https://t.me/Dec_04">
-        <kbd>
-            <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/telegram.svg" 
-            data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/telegram.svg" 
-            height="100" />
-        </kbd>
-    </a>
-    <a href="https://twitter.com/04_dec">
-        <kbd>
-            <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/twitter.svg" 
-            data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/twitter.svg" 
-            height="100" />
-        </kbd>
-    </a>
-    <a href="https://wa.me/79609671837?text=hi">
-        <kbd>
-            <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/whatsapp.svg" 
-            data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/whatsapp.svg" 
-            height="100" />
-        </kbd>
+    <a style="padding: 0 20px" target="_blank" rel="noopener" href="https://twitter.com/04_dec">
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/twitter.svg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/twitter.svg" 
+        height="100" />
     </a>
 </p>
 
