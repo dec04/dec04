@@ -68,6 +68,10 @@ You are free to draw your own conclusions. Here's a small list of my skills:
   - tailwindcss;                                    :star: (just started)
   - webpack;                                        :star::star::star:
   - java;                                           :star::star:
+  - nodejs                                          :star::star:
+  - expressjs                                       :star::star:
+  - vuejs                                           :star: (just started)
+  - angular                                         :star: (just started)
 
 #### Soft skills:
   - not toxic;                                      :star::star::star:
@@ -79,13 +83,21 @@ You are free to draw your own conclusions. Here's a small list of my skills:
   - a little shy with new people;                   :star::star::star::star:
   - due to the fact that I have been working 
   remotely for 2 years, I do not communicate much;  :star::star::star::star::star:
-
+  
+  During my work as a programmer, I dropped in release 3 sites and 2 mobile applications. <br>
+  You can take a look at them if you go down to the links section.<br>
+  :point_down: :point_down: :point_down:
 
 ## Links
 
  - [Portfolio](https://dec04-pf.herokuapp.com/)
- - [Company subscribers personal account](https://dec04-pf.herokuapp.com/work/1)
- - [Mobile application for company subscribers](https://dec04-pf.herokuapp.com/work/2)
+ - [Company subscribers personal account website description](https://dec04-pf.herokuapp.com/work/1)
+ - [Mobile application for company subscribers description](https://dec04-pf.herokuapp.com/work/2)
+ - [Real Project #1](https://goo.su/2LVe)
+ - [Real Project #2](https://goo.su/2LVE)
+ - [Real Project #3](https://goo.su/2LvF)
+ - [Real Project #4](https://goo.su/2lvF)
+ - [:briefcase:](https://novosibirsk.hh.ru/resume/864e66d4ff061301450039ed1f734c4b637855)
 
 ## Social
 
