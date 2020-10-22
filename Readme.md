@@ -45,13 +45,11 @@ class Dec04 {
 
 ## About myself
 
-<p align="center">
 For 10 years I has worked in various positions. For more than 6 years, the main activity 
 has been system administration. Now I turned my attention to programming. My path as a 
 programmer began almost 2 years ago. During this time, I have mastered a few things. 
 I may not have become a guru in them, but I can release something completely ready-made 
 and modern.
-</p>
 
 ### Try to rate myself
 
