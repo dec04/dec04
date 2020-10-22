@@ -1,5 +1,7 @@
 
-<a href="https://github.com/dec04" ><img align="center" src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/animLogo2.gif" /></a>
+<a href="https://github.com/dec04" >
+    <img align="center" src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/animLogo2.gif" />
+</a>
 
 # Well! Let me tell you some information about myself
 
