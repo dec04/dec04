@@ -77,7 +77,8 @@ You are free to draw your own conclusions. Here's a small list of my skills:
   - not toxic;                                      :star::star::star:
   - good;                                           :star::star::star::star:
   - polite;                                         :star::star::star:
-  - with an excellent sense of humor, mood;         :star::star::star::star::star:
+  - with an excellent sense of humor, 
+  according by mood;                                :star::star::star::star::star:
   - self-irony;                                     :star::star::star::star:
   - responsible;                                    :star::star::star::star:
   - a little shy with new people;                   :star::star::star::star:
