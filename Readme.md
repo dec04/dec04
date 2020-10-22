@@ -1,4 +1,13 @@
-# Oh, hi!
+# Well, yeah!
+
+#### Some information about me
+
+Hello (Hallo, नमस्ते, ¡Hola!, Olá, Ciao, Привет, Aloha), my name __Vitaly__. 
+Sometimes I design and develop some stuff. Let me show you. 
+
+:point_down: :point_down: :point_down:
+
+___
 
 ```js
 
@@ -40,6 +49,12 @@ class Dec04 {
 
 ## Links
 
+ - [Portfolio](https://dec04-pf.herokuapp.com/)
+ - [Company subscribers personal account](https://dec04-pf.herokuapp.com/work/1)
+ - [Mobile application for company subscribers](https://dec04-pf.herokuapp.com/work/2)
+
+## Social
+
 <p align="center">
     <a rel="noopener" href="https://www.instagram.com/dmedia.decoy/">
         <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/instagram.svg" 
@@ -62,8 +77,3 @@ class Dec04 {
         height="50" />
     </a>
 </p>
-
-## Projects
-
- - [Company subscribers personal account](https://dec04-pf.herokuapp.com/work/1)
- - [Mobile application for company subscribers](https://dec04-pf.herokuapp.com/work/2)
