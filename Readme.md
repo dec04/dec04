@@ -186,7 +186,16 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dec04&theme=buefy&layout=compact)](https://github.com/dec04)
-[![Dec04's github stats](https://github-readme-stats.vercel.app/api?username=dec04&count_private=true&hide=prs&show_icons=true&theme=buefy&include_all_commits=true&custom_title=About%20Dec04%20Github%20Profile)](https://github.com/dec04/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dec04&repo=webpack-base-app&theme=buefy&show_owner=true)](https://github.com/dec04)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dec04&repo=PermissionUtilsLibrary&theme=buefy&show_owner=true)](https://github.com/dec04)
+<a href="https://github.com/dec04/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dec04&theme=buefy&layout=compact" />
+</a>
+<a href="https://github.com/dec04/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dec04&count_private=true&hide=prs&show_icons=true&theme=buefy&include_all_commits=true&custom_title=About%20Dec04%20Github%20Profile" />
+</a>
+<a href="https://github.com/dec04/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dec04&repo=webpack-base-app&theme=buefy&show_owner=true" />
+</a>
+<a href="https://github.com/dec04/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dec04&repo=PermissionUtilsLibrary&theme=buefy&show_owner=true" />
+</a>
+
