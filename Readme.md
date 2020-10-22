@@ -1,6 +1,4 @@
-# Well, yeah!
-
-### Some information about me
+# Well! Let me tell you some information about myself
 
 <p align="center">
 Hello (Hallo, नमस्ते, ¡Hola!, Olá, Ciao, Привет, Aloha), my name __Vitaly__.<br>Sometimes I design and develop some stuff. Let me show you.<br><br>
