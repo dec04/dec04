@@ -1,11 +1,12 @@
 # Well! Let me tell you some information about myself
 
 <p align="center">
+Hello (Hallo, नमस्ते, ¡Hola!, Olá, Ciao, Привет, Aloha), my name Vitaly.<br>Sometimes I design and develop some stuff. Let me show you.
+</p>
+<p align="center">
     <img align="center" height="200" src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/animLogo2.gif" />
 </p>
-
 <p align="center">
-Hello (Hallo, नमस्ते, ¡Hola!, Olá, Ciao, Привет, Aloha), my name Vitaly.<br>Sometimes I design and develop some stuff. Let me show you.<br><br>
 :point_down: :point_down: :point_down:
 </p>
 
