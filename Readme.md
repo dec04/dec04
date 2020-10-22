@@ -219,11 +219,8 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 
 ___
 
-<p align="center">
-
 ![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=dec04&countColor=%235934c5&labelColor=%23362076)
 
-</p>
 
 <!-- Resources -->
 <!-- Visitors: https://github.com/estruyf/github-visitors-badge -->
