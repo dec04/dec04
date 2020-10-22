@@ -1,12 +1,8 @@
 # Well, yeah!
 
-### Some information about me
-
 <p align="center">
-Hello (Hallo, नमस्ते, ¡Hola!, Olá, Ciao, Привет, Aloha), my name __Vitaly__. 
-
-Sometimes I design and develop some stuff. Let me show you. 
-
+### Some information about me
+Hello (Hallo, नमस्ते, ¡Hola!, Olá, Ciao, Привет, Aloha), my name __Vitaly__. Sometimes I design and develop some stuff. Let me show you. 
 :point_down: :point_down: :point_down:
 </p>
 
