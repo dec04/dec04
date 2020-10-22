@@ -1,5 +1,5 @@
 
-<img align="center" src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/animLogo.gif" />
+<img align="center" src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/animLogo2.gif" />
 
 # Well! Let me tell you some information about myself
 
