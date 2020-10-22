@@ -1,3 +1,6 @@
+
+<img align="center" src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/animLogo.gif" />
+
 # Well! Let me tell you some information about myself
 
 <p align="center">
