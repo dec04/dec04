@@ -72,6 +72,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
   - expressjs                                       :star::star:
   - vuejs                                           :star: (just started)
   - angular                                         :star: (just started)
+  - mysql, postgresql, sqlite                       :star::star::star:
 
 #### Soft skills:
   - not toxic;                                      :star::star::star:
@@ -182,7 +183,30 @@ You are free to draw your own conclusions. Here's a small list of my skills:
     </a>
 </p>
 
-## Technology and tools
+## Workflow & tools
+
+![OS](https://img.shields.io/badge/OS-Ubuntu%2019.10-dd4814?style=for-the-badge)
+![Shell](https://img.shields.io/badge/Shell-bash-3c4548?style=for-the-badge)
+![IDE](https://img.shields.io/badge/IDE-PhpStorm-8451ee?style=for-the-badge)
+![IDE](https://img.shields.io/badge/IDE-Android%20studio-51f190?style=for-the-badge)
+![IDE](https://img.shields.io/badge/IDE-PyCharm%20CE-33bfd5?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-javascript-efd81f?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-php-7377ad?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-css-244bdd?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-sass-c66394?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-reactjs-5ed3f3?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-bootstrap%204-533a77?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-tailwindcss-2fb4c6?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-webpack-2374ba?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-java-df4e3a?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-nodejs-73ab62?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-expressjs-fff?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-vuejs-3fb27f?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-angular-d60830?style=for-the-badge)
+![DB](https://img.shields.io/badge/Tools-MySql-e06000?style=for-the-badge)
+![DB](https://img.shields.io/badge/Tools-Sqlite-3796d1?style=for-the-badge)
+![DB](https://img.shields.io/badge/Tools-PostgreSql-32648b?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Heroku-401a99?style=for-the-badge)
 
 ## Statistics
 
@@ -192,4 +216,10 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 <a href="https://github.com/dec04/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dec04&count_private=true&hide=prs&show_icons=true&theme=buefy&include_all_commits=true&custom_title=About%20Dec04%20Github%20Profile" />
 </a>
+
+<!-- Resources -->
+<!-- Icons: https://www.flaticon.com/authors/freepik -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
