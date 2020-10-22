@@ -62,24 +62,25 @@ You are free to draw your own conclusions.
 
 #### Hard skills:
 
-  - javascript;         :star::star::star::star:
-  - php;                :star::star:
-  - css, sass;          :star::star::star:
-  - reactjs;            :star::star::star:
-  - bootstrap 4;        :star::star::star:
-  - tailwindcss;        :star:
-  - webpack;            :star::star::star:
-  - java;               :star::star:
+  - javascript;                                     :star::star::star::star:
+  - php;                                            :star::star:
+  - css, sass;                                      :star::star::star:
+  - reactjs;                                        :star::star::star:
+  - bootstrap 4;                                    :star::star::star:
+  - tailwindcss;                                    :star:
+  - webpack;                                        :star::star::star:
+  - java;                                           :star::star:
 
 #### Soft skills:
-  - not toxic;          
-  - kind;
-  - polite;
-  - with an excellent sense of humor, mood;
-  - self-irony;
-  - responsible;
-  - a little shy with new people;
-  - due to the fact that I have been working remotely for 2 years, I do not communicate much;
+  - not toxic;                                      :star::star::star:
+  - good;                                           :star::star::star::star:
+  - polite;                                         :star::star::star:
+  - with an excellent sense of humor, mood;         :star::star::star::star::star:
+  - self-irony;                                     :star::star::star::star:
+  - responsible;                                    :star::star::star::star:
+  - a little shy with new people;                   :star::star::star::star:
+  - due to the fact that I have been working 
+  remotely for 2 years, I do not communicate much;  :star::star::star::star::star:
 
 
 ## Links
