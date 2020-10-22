@@ -43,6 +43,45 @@ class Dec04 {
 
 ```
 
+## About myself
+
+<p align="center">
+For 10 years he has worked in various positions. For more than 6 years, the main activity 
+has been system administration. Now I turned my attention to programming. My path as a 
+programmer began almost 2 years ago. During this time, I have mastered a few things. 
+I may not have become a gugu in them, but I can release something completely ready-made 
+and modern. Here's a small list:
+</p>
+
+### Rate system
+
+:star: - :star::star::star::star::star:
+
+I will evaluate myself as I see it. While assessing myself is extremely difficult, I can be biased. 
+You are free to draw your own conclusions.
+
+#### Hard skills:
+
+  - javascript;         :star::star::star::star:
+  - php;                :star::star:
+  - css, sass;          :star::star::star:
+  - reactjs;            :star::star::star:
+  - bootstrap 4;        :star::star::star:
+  - tailwindcss;        :star:
+  - webpack;            :star::star::star:
+  - java;               :star::star:
+
+#### Soft skills:
+  - not toxic;          
+  - kind;
+  - polite;
+  - with an excellent sense of humor, mood;
+  - self-irony;
+  - responsible;
+  - a little shy with new people;
+  - due to the fact that I have been working remotely for 2 years, I do not communicate much;
+
+
 ## Links
 
  - [Portfolio](https://dec04-pf.herokuapp.com/)
