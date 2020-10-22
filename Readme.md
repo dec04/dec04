@@ -192,10 +192,4 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 <a href="https://github.com/dec04/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dec04&count_private=true&hide=prs&show_icons=true&theme=buefy&include_all_commits=true&custom_title=About%20Dec04%20Github%20Profile" />
 </a>
-<a href="https://github.com/dec04/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dec04&repo=webpack-base-app&theme=buefy&show_owner=true" />
-</a>
-<a href="https://github.com/dec04/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dec04&repo=PermissionUtilsLibrary&theme=buefy&show_owner=true" />
-</a>
 
