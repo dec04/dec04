@@ -86,7 +86,8 @@ You are free to draw your own conclusions. Here's a small list of my skills:
   
   During my work as a programmer, I dropped in release 3 sites and 2 mobile applications. <br>
   You can take a look at them if you go down to the links section.<br>
-  :point_down: :point_down: :point_down:
+  
+  <p align="center">:point_down: :point_down: :point_down:</p>
 
 ## Links
 
