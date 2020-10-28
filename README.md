@@ -224,8 +224,8 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dec04/akgs.local/pull/1) in [dec04/akgs.local](https://github.com/dec04/akgs.local)
-2. 🎉 Merged PR [#2](https://github.com/dec04/akgs.local/pull/2) in [dec04/akgs.local](https://github.com/dec04/akgs.local)
+1. 🎉 Merged PR [#2](https://github.com/dec04/dec04/pull/2) in [dec04/dec04](https://github.com/dec04/dec04)
+2. 💪 Opened PR [#2](https://github.com/dec04/dec04/pull/2) in [dec04/dec04](https://github.com/dec04/dec04)
 <!--END_SECTION:activity-->
 ___
 
