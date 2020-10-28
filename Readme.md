@@ -221,7 +221,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
     </a>
 </p>
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
