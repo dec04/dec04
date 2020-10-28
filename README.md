@@ -226,8 +226,8 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dec04/dec04/pull/2) in [dec04/dec04](https://github.com/dec04/dec04)
-2. 💪 Opened PR [#2](https://github.com/dec04/dec04/pull/2) in [dec04/dec04](https://github.com/dec04/dec04)
+1. 🎉 Merged PR [#2](https://github.com/dec04/my-portfolio/pull/2) in [dec04/my-portfolio](https://github.com/dec04/my-portfolio)
+2. 💪 Opened PR [#2](https://github.com/dec04/my-portfolio/pull/2) in [dec04/my-portfolio](https://github.com/dec04/my-portfolio)
 <!--END_SECTION:activity-->
 ___
 
