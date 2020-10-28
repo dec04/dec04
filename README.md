@@ -9,6 +9,8 @@ Hello (Hallo, नमस्ते, ¡Hola!, Olá, Ciao, Привет, Aloha), my 
 :point_down: :point_down: :point_down:
 </p>
 
+![Update README](https://github.com/dec04/dec04/workflows/Update%20README/badge.svg)
+
 ```js
 
 class Dec04 {
