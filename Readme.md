@@ -224,7 +224,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 ___
 
 ![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=dec04&countColor=%235934c5&labelColor=%23362076)
