@@ -97,7 +97,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 
 ## Links
 
- - [Portfolio](https://dec04-pf.herokuapp.com/)
+ - [Portfolio](https://dec04-pf.herokuapp.com/) - please wait for loading, it's on free account
  - [Company subscribers personal account website description](https://dec04-pf.herokuapp.com/work/1)
  - [Mobile application for company subscribers description](https://dec04-pf.herokuapp.com/work/2)
  - [Real Project #1](https://goo.su/2LVe)
