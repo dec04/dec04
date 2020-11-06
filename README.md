@@ -226,11 +226,11 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/dec04/github-calendar-sync/pull/13) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
-2. ❗️ Opened issue [#12](https://github.com/dec04/github-calendar-sync/issues/12) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
-3. ❗️ Closed issue [#5](https://github.com/dec04/github-calendar-sync/issues/5) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
-4. 🎉 Merged PR [#11](https://github.com/dec04/github-calendar-sync/pull/11) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
-5. ❗️ Closed issue [#7](https://github.com/dec04/github-calendar-sync/issues/7) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+1. ❗️ Opened issue [#14](https://github.com/dec04/github-calendar-sync/issues/14) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+2. 🎉 Merged PR [#13](https://github.com/dec04/github-calendar-sync/pull/13) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+3. ❗️ Closed issue [#12](https://github.com/dec04/github-calendar-sync/issues/12) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+4. 💪 Opened PR [#13](https://github.com/dec04/github-calendar-sync/pull/13) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+5. ❗️ Opened issue [#12](https://github.com/dec04/github-calendar-sync/issues/12) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
 <!--END_SECTION:activity-->
 ___
 
