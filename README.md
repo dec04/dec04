@@ -226,11 +226,11 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/dec04/github-calendar-sync/pull/17) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
-2. 🎉 Merged PR [#16](https://github.com/dec04/github-calendar-sync/pull/16) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
-3. 💪 Opened PR [#16](https://github.com/dec04/github-calendar-sync/pull/16) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
-4. 🎉 Merged PR [#15](https://github.com/dec04/github-calendar-sync/pull/15) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
-5. ❗️ Closed issue [#14](https://github.com/dec04/github-calendar-sync/issues/14) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+1. ❌ Closed PR [#18](https://github.com/dec04/github-calendar-sync/pull/18) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+2. 💪 Opened PR [#18](https://github.com/dec04/github-calendar-sync/pull/18) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+3. 🎉 Merged PR [#17](https://github.com/dec04/github-calendar-sync/pull/17) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+4. 💪 Opened PR [#17](https://github.com/dec04/github-calendar-sync/pull/17) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
+5. 🎉 Merged PR [#16](https://github.com/dec04/github-calendar-sync/pull/16) in [dec04/github-calendar-sync](https://github.com/dec04/github-calendar-sync)
 <!--END_SECTION:activity-->
 ___
 
