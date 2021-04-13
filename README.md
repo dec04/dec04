@@ -19,7 +19,7 @@ class Dec04 {
     // My vast variety of skills is continuously expanding.
     
     constructor() {
-        this.name = 'Vitaly Sokolov'
+        this.name = 'Vitaly'
         this.dayOfBirthTimestamp = 651117600
         this.email = 'dmedia.decoy@gmail.com'
     }
