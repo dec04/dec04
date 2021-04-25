@@ -74,10 +74,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
   - tailwindcss;                                    :star: (just started)
   - webpack;                                        :star::star::star:
   - java;                                           :star::star:
-  - nodejs                                          :star::star:
-  - expressjs                                       :star::star:
-  - vuejs                                           :star: (just started)
-  - angular                                         :star: (just started)
+  - nodejs / expressjs                              :star::star:
   - mysql, postgresql, sqlite                       :star::star::star:
 
 #### Soft skills:
