@@ -20,7 +20,6 @@ class Dec04 {
     
     constructor() {
         this.name = 'Vitaly'
-        this.dayOfBirthTimestamp = 651117600
         this.email = 'dmedia.decoy@gmail.com'
     }
 
