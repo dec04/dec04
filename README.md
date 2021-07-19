@@ -128,6 +128,58 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 </details>
 
 <details>
+  <summary>iOS Swift 5 app example images</summary>
+  
+<p align="center">
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/1.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/1.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/2.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/2.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/3.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/3.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/4.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/4.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/5.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/5.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/6.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/6.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/7.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/7.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/8.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/8.jpg" 
+        height="500" />
+    </kbd>
+    <kbd>
+        <img src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/9.jpg" 
+        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/9.jpg" 
+        height="500" />
+    </kbd>
+</p>
+</details>
+
+<details>
   <summary>App example images</summary>
   
 <p align="center">
