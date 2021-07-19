@@ -97,10 +97,13 @@ You are free to draw your own conclusions. Here's a small list of my skills:
  - [Portfolio](https://dec04-pf.herokuapp.com/) - please wait for loading, it's on free account
  - [Company subscribers personal account website description](https://dec04-pf.herokuapp.com/work/1)
  - [Mobile application for company subscribers description](https://dec04-pf.herokuapp.com/work/2)
- - [Real Project #1](https://goo.su/2LVe)
- - [Real Project #2](https://goo.su/2LVE)
- - [Real Project #3](https://goo.su/2LvF)
- - [Real Project #4](https://goo.su/2lvF)
+ - [Mobile application for Gazoil company](https://dec04-pf.herokuapp.com/work/3)
+ - [Real Project #1](https://play.google.com/store/apps/details?id=com.decoy.gasbaloonapp.a)
+ - [Real Project #2](https://play.google.com/store/apps/details?id=com.decoy.gasbaloonapp.n)
+ - [Real Project #3](https://play.google.com/store/apps/details?id=ru.gkgazoil)
+ - [Real Project #4](https://altaygaz22.ru/)
+ - [Real Project #5](https://sibgaz.ru/gaz/)
+ - [Real Project #6](https://altaygaz22.ru/)
  - [:briefcase:](https://novosibirsk.hh.ru/resume/864e66d4ff061301450039ed1f734c4b637855)
 
 ### Example images
