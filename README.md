@@ -41,7 +41,7 @@ class Dec04 {
         return [
             'HTML/CSS/JS', 'ReactJS', 'Node.js', 'jQuery', 'Bootstrap',
             'Sass', 'Express', 'PHP', 'MySql/SqLite/Postgres', 'GIT',
-            'Webpack', 'Java (Android)', 'Jetpack Room', 'Linux'
+            'Webpack', 'Swift 5', 'Java (Android)', 'Jetpack Room', 'Linux'
         ]
     }
 }
