@@ -65,14 +65,14 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 
 #### Hard skills:
 
-  - javascript;                                     :star::star::star:
-  - php;                                            :star::star:
-  - css, sass;                                      :star::star::star:
-  - reactjs;                                        :star::star::star:
-  - webpack;                                        :star::star::star:
   - java;                                           :star::star::star:
   - swift;                                          :star::star:
+  - javascript;                                     :star::star::star:
+  - php;                                            :star::star:
+  - webpack;                                        :star::star::star:
   - nodejs / expressjs                              :star::star:
+  - css, sass;                                      :star::star::star:
+  - reactjs;                                        :star::star::star:
   - mysql, postgresql, sqlite                       :star::star::star:
 
 #### Soft skills:
