@@ -179,6 +179,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ![Code](https://img.shields.io/badge/Code-expressjs-fff?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-vuejs-3fb27f?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-angular-d60830?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-swift%205-%23f5843c?style=for-the-badge)
 ![DB](https://img.shields.io/badge/Tools-MySql-e06000?style=for-the-badge)
 ![DB](https://img.shields.io/badge/Tools-Sqlite-3796d1?style=for-the-badge)
 ![DB](https://img.shields.io/badge/Tools-PostgreSql-32648b?style=for-the-badge)
