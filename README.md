@@ -71,6 +71,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
   - reactjs;                                        :star::star::star:
   - webpack;                                        :star::star::star:
   - java;                                           :star::star::star:
+  - swift;                                          :star::star:
   - nodejs / expressjs                              :star::star:
   - mysql, postgresql, sqlite                       :star::star::star:
 
