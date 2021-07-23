@@ -105,6 +105,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
  - [Real Project #5](https://sibgaz.ru/gaz/)
  - [Real Project #6](https://altaygaz22.ru/)
  - [Side Project #1](https://weather-04.netlify.app/)
+ - [Side Project #2](https://dribble-04.netlify.app/)
  - [:briefcase:](https://novosibirsk.hh.ru/resume/864e66d4ff061301450039ed1f734c4b637855)
 
 ### Example images
