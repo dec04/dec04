@@ -87,8 +87,8 @@ You are free to draw your own conclusions. Here's a small list of my skills:
   - due to the fact that I have been working 
   remotely for 2 years, I do not communicate much;  :star::star::star::star::star:
   
-  During my work as a programmer, I dropped in release 3 sites and 2 mobile applications. <br>
-  You can take a look at them if you go down to the links section.<br>
+  During my work as a programmer, I dropped in release 5 sites and 6 mobile applications. <br>
+  You can take a look at them (not all unfortunately) if you go down to the links section.<br>
   
   <p align="center">:point_down: :point_down: :point_down:</p>
 
