@@ -25,7 +25,8 @@ class Dec04 {
 
     workExperience() {
         return [
-            { '2019-now' : 'Full-stack Developer/Android developer' },
+            { '2021-now' : 'Expert-Developer' },
+            { '2019-2021' : 'Full-stack Developer/Android developer' },
             { '2010-2018' : 'System Administrator/Security chief' }
         ]
     }
