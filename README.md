@@ -96,17 +96,14 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ## Links
 
  - [Portfolio](https://dec04-pf.herokuapp.com/) - please wait for loading, it's on free account
- - [Company subscribers personal account website description](https://dec04-pf.herokuapp.com/work/1)
- - [Mobile application for company subscribers description](https://dec04-pf.herokuapp.com/work/2)
- - [Mobile application for Gazoil company](https://dec04-pf.herokuapp.com/work/3)
- - [Real Project #1](https://play.google.com/store/apps/details?id=com.decoy.gasbaloonapp.a)
- - [Real Project #2](https://play.google.com/store/apps/details?id=com.decoy.gasbaloonapp.n)
- - [Real Project #3](https://play.google.com/store/apps/details?id=ru.gkgazoil)
- - [Real Project #4](https://altaygaz22.ru/)
- - [Real Project #5](https://sibgaz.ru/gaz/)
- - [Real Project #6](https://altaygaz22.ru/)
- - [Side Project #1](https://weather-04.netlify.app/)
- - [Side Project #2](https://dribble-04.netlify.app/)
+ - [iOS application for gk-gazoil.ru](https://apps.apple.com/ru/app/%D0%B3%D0%B0%D0%B7%D0%BE%D0%B9%D0%BB/id1576812948)
+ - [Android application for gk-gazoil.ru](https://play.google.com/store/apps/details?id=ru.gkgazoil)
+ - [Android application for akgs.ru](https://play.google.com/store/apps/details?id=com.decoy.gasbaloonapp.a)
+ - [Android application for sibgaz.ru](https://play.google.com/store/apps/details?id=com.decoy.gasbaloonapp.n)
+ - [Web application for subscribers akgs.ru](https://altaygaz22.ru/)
+ - [Web application for subscribers sibgaz.ru](https://sibgaz.ru/gaz/)
+ - [Small weather app](https://weather-04.netlify.app/)
+ - [Just nothing](https://dribble-04.netlify.app/)
  - [:briefcase:](https://novosibirsk.hh.ru/resume/864e66d4ff061301450039ed1f734c4b637855)
 
 ### Example images
