@@ -252,26 +252,11 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ## Social
 
 <p align="center">
-    <a rel="noopener" href="https://www.instagram.com/dmedia.decoy/">
-        <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/instagram.svg" 
-        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/instagram.svg" 
-        height="50" />
-    </a>
-<!--     <a rel="noopener" href="https://join.skype.com/invite/cXSkTTwHZFP6">
-        <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/skype.svg" 
-        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/skype.svg" 
-        height="50" />
-    </a> -->
     <a rel="noopener" href="https://t.me/Dec_04">
         <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/telegram.svg" 
         data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/telegram.svg" 
         height="50" />
     </a>
-<!--     <a rel="noopener" href="https://twitter.com/04_dec">
-        <img src="https://raw.githubusercontent.com/dec04/dec04/master/svg/twitter.svg" 
-        data-canonical-src="https://raw.githubusercontent.com/dec04/dec04/master/svg/twitter.svg" 
-        height="50" />
-    </a> -->
 </p>
 ___
 
