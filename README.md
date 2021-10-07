@@ -53,7 +53,7 @@ class Dec04 {
 
 For 10 years I has worked in various positions. For more than 6 years, the main activity 
 has been system administration. Now I turned my attention to programming. My path as a 
-programmer began almost 2 years ago. During this time, I have mastered a few things. 
+programmer began almost 3 years ago. During this time, I have mastered a few things. 
 I may not have become a guru in them, but I can release something completely ready-made 
 and modern.
 
@@ -66,6 +66,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 
 #### Hard skills:
 
+  - python                                          :star::star:
   - java;                                           :star::star::star:
   - swift;                                          :star::star:
   - javascript;                                     :star::star::star:
