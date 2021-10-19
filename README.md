@@ -1,4 +1,5 @@
-<img src="https://github.com/dec04/dec04/workflows/Update%20README/badge.svg"><br>
+<img src="https://github.com/dec04/dec04/workflows/Update%20README/badge.svg">
+<img src="https://wakatime.com/badge/user/55d629e7-3f84-4886-8bd6-1be0a98f8eec.svg">
 
 <p align="center">
     <img align="center" height="200" src="https://raw.githubusercontent.com/dec04/dec04/master/imgs/animLogo2.gif" />
