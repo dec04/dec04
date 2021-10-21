@@ -106,7 +106,6 @@ You are free to draw your own conclusions. Here's a small list of my skills:
  - [Web application for subscribers sibgaz.ru](https://sibgaz.ru/gaz/)
  - [Small weather app](https://weather-04.netlify.app/)
  - [Just nothing](https://dribble-04.netlify.app/)
- - [:briefcase:](https://novosibirsk.hh.ru/resume/864e66d4ff061301450039ed1f734c4b637855)
 
 ### Example images
 
