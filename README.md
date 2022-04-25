@@ -223,12 +223,15 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ## Workflow & tools
 
 ![OS](https://img.shields.io/badge/OS-Ubuntu%2019.10-dd4814?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Windows%2011-0074cd?style=for-the-badge)
 ![Shell](https://img.shields.io/badge/Shell-bash-3c4548?style=for-the-badge)
-![IDE](https://img.shields.io/badge/IDE-PhpStorm-8451ee?style=for-the-badge)
+![IDE](https://img.shields.io/badge/IDE-IntellijIdea-8451ee?style=for-the-badge)
 ![IDE](https://img.shields.io/badge/IDE-Android%20studio-51f190?style=for-the-badge)
-![IDE](https://img.shields.io/badge/IDE-PyCharm%20CE-33bfd5?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-python-234c6e?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-java-d00000?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-javascript-efd81f?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-php-7377ad?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-swift%205-%23f5843c?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-css-244bdd?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-sass-c66394?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-reactjs-5ed3f3?style=for-the-badge)
@@ -238,12 +241,10 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ![Code](https://img.shields.io/badge/Code-java-df4e3a?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-nodejs-73ab62?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-expressjs-fff?style=for-the-badge)
-![Code](https://img.shields.io/badge/Code-vuejs-3fb27f?style=for-the-badge)
-![Code](https://img.shields.io/badge/Code-angular-d60830?style=for-the-badge)
-![Code](https://img.shields.io/badge/Code-swift%205-%23f5843c?style=for-the-badge)
 ![DB](https://img.shields.io/badge/Tools-MySql-e06000?style=for-the-badge)
 ![DB](https://img.shields.io/badge/Tools-Sqlite-3796d1?style=for-the-badge)
 ![DB](https://img.shields.io/badge/Tools-PostgreSql-32648b?style=for-the-badge)
+![DB](https://img.shields.io/badge/Tools-PLSQL-f80000?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud-Heroku-401a99?style=for-the-badge)
 
 ## Statistics
@@ -260,7 +261,8 @@ You are free to draw your own conclusions. Here's a small list of my skills:
         height="50" />
     </a>
 </p>
-___
+
+## Sweeties
 
 ![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=dec04&countColor=%235934c5&labelColor=%23362076)
 
