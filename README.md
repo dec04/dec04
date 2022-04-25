@@ -249,8 +249,10 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 
 ## Statistics
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dec04&theme=buefy&layout=compact" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api?username=dec04&count_private=true&hide=prs&show_icons=true&theme=buefy&include_all_commits=true&custom_title=About%20Dec04%20Github%20Profile" height="200"/><div/>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dec04&theme=buefy&layout=compact" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dec04&count_private=true&hide=prs&show_icons=true&theme=buefy&include_all_commits=true&custom_title=About%20Dec04%20Github%20Profile" height="150"/>
+<div/>
 
 ## Social
 
