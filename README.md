@@ -110,7 +110,7 @@ You are free to draw your own conclusions. Here's a small list of my skills:
 ## Templates
 
  - [Electron Forge + Webpack + React + Tailwind start template](https://github.com/dec04/electron-forge-react-tailwind-base-template)
- - [Webpack + React + Sass](https://github.com/dec04/webpack-base-app)
+ - [Webpack + React + Sass start template](https://github.com/dec04/webpack-base-app)
 
 ### Example images
 
