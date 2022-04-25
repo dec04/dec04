@@ -107,6 +107,11 @@ You are free to draw your own conclusions. Here's a small list of my skills:
  - [Small weather app](https://weather-04.netlify.app/)
  - [Just nothing](https://dribble-04.netlify.app/)
 
+## Templates
+
+ - [Electron Forge + Webpack + React + Tailwind start template](https://github.com/dec04/electron-forge-react-tailwind-base-template)
+ - [Webpack + React + Sass](https://github.com/dec04/webpack-base-app)
+
 ### Example images
 
 <details>
