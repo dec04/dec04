@@ -34,8 +34,8 @@ class Dec04 {
 
     education() {
         return [
-            { '2018': 'Siberian State University of Telecommunications and Informatics' },
-            { '2010': 'Gorno-Altaysk Economic College' },
+            { '2018': 'University of Telecommunications and Informatics' },
+            { '2010': 'Economic College' },
         ]
     }
 
